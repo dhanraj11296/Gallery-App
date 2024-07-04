@@ -1,0 +1,28 @@
+.appContainer {
+  display: flex;
+  justify-content: center;
+}
+.galleryContainer {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+}
+.selectedImage {
+  border-radius: 20px;
+}
+.heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 25px;
+}
+.description {
+  color: #64748b;
+  font-weight: bold;
+  font-size: 25px;
+}
+.thumbnailList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+}

@@ -1,0 +1,14 @@
+.thumbnailListItem {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.thumbnailButton {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.thumbnail {
+  width: 90%;
+  height: 90%;
+}
